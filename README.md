@@ -1,6 +1,7 @@
 # Farming_Beyond_esph-1
 Farming Beyond data logger
-
+Um data logger deselvolvido para impulsinar o desenvolvimentos de cidades inteligentes na agricultura espacial
+fazendo o monitoramento de estufas nas colheiras 
 Funcionalidades
 
 - **Menu de Idiomas:** Seleção de interface entre Português, Inglês e Espanhol na inicialização ou através da navegação.
@@ -57,3 +58,8 @@ Antes de carregar o código, instale as seguintes bibliotecas diretamente no Ger
    - O display passará a exibir o cabeçalho no idioma escolhido, acompanhado da data/hora atual (atualizada segundo a segundo) e dos dados de temperatura e umidade do sensor DHT22.
 5. Voltando ao Menu:
    - Caso queira alterar o idioma novamente, estando na tela de monitoramento, basta pressionar o Botão Navegar Azul para retornar instantaneamente ao menu inicial.
+
+INTEGRANTES
+Matheus Marcondes Araújo RM: 573152
+Lucca Savoia RM: 569489
+Vitória Valentim de Melo Ferreira RM: 570502
